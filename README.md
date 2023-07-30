@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romdhani Amina</h1>
-<h3 align="center">A beginner data scientist</h3>
+<h3 align="center">Data scientist</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Romdhani7](https://github.com/Romdhani7)
 
